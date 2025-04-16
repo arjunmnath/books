@@ -82,7 +82,7 @@
 - [Flask Web Development 2nd Edition - Miguel Grinberg](https://github.com/arjunmnath/books/blob/main/miscellaneous/Flask-Web-Development.pdf)
 - [Elements of Information Theory 2nd Edition - Thomas M. Cover, Joy A. Thomas ](https://github.com/arjunmnath/books/blob/main/miscellaneous/Elements-of-Information-Theory.pdf)
 - [Cracking the Coding Interview 6th Edition - Gayle Laakmaan Mcdowell](https://github.com/arjunmnath/books/blob/main/miscellaneous/Cracking-the-Coding-Interview.pdf)
-
+- [Doing Math with Python - Amit Shah](https://github.com/arjunmnath/books/blob/main/math-note-references/Doing-Math-With-Python.pdf)
 ## CheatSheets
 - [Rust Langugage v2.0.2 ](https://github.com/arjunmnath/books/blob/main/miscellaneous/cheatsheets/Rust_Cheat_Sheet_2.0.2.pdf)
 
