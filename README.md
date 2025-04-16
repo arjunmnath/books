@@ -27,11 +27,11 @@
 - [Mathematical Statistics and Data Analysis 3rd Edition - John. A. Rice](https://github.com/arjunmnath/books/blob/main/Data%20Science/Mathematical-Statistics-and-Data-Analysis.pdf)
 - [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 - [An Introduction to Statistical Learning with Applications in Python - James, Witten, Hastie, Tibshirani, Taylor](https://github.com/arjunmnath/books/blob/main/ml-important/ISLP_website.pdf)
+- [Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Andrew_Bruce-Practical_Statistics_for_Data_Scientist.pdf)
 
 ## Deep Learning
 - [Zero to Deep Learning with Keras and Tensorflow - Francesco Mosconi](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/0%20to%20DL.pdf)
 - [Artifical Intelligence, A Modern Approach 3rd Edition - Russell, Norvig](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/AI%20a%20modern%20approach.pdf)
-- [Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Andrew_Bruce-Practical_Statistics_for_Data_Scientist.pdf)
 - [Deep Learning from Scratch - Seth Weidman](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep%20Learning%20from%20Scratch%20by%20Seth%20Weidman.pdf)
 - [Deep Learning for Coders with fastai & PyTorch Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
 - [Python for Data Analysis 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
