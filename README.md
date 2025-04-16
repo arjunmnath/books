@@ -21,7 +21,7 @@
 - [Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Andrew_Bruce-Practical_Statistics_for_Data_Scientist.pdf)
 - [Deep Learning from Scratch - Seth Weidman](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep%20Learning%20from%20Scratch%20by%20Seth%20Weidman.pdf)
 - [Deep Learning for Coders with fastai & PyTorch Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
-- [Python for Data Science 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
+- [Python for Data Analysis 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
 - [Practical Artifical Intelligence with Swift - Mars Geldard, Jonathon Manning](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/dl-with-swift.pdf)
 - [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
 - [Mathematics for Machine Learning (MML) - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/mml-book.pdf)
