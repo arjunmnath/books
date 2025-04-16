@@ -8,7 +8,7 @@
 - [The C Programming Language - Dennis Ritchie](https://github.com/arjunmnath/books/blob/main/DSA/C-Programming-Ritchie.pdf)
 - [Data Structures And Algorithms Made Easy 5th Editiion - Narasimha Karumanchi](https://github.com/arjunmnath/books/blob/main/DSA/DSA-%20Narasimha%20Karumanchi-4.pdf)
 - [Grokking algorithms - Aditya Y. Bhargava](https://github.com/arjunmnath/books/blob/main/DSA/Grokking-Algorithms.pdf)
-- [Introduction to algorithms 4th Edition - THOMAS H. CORMEN](https://github.com/arjunmnath/books/blob/main/DSA/clrs.pdf)
+- [Introduction to algorithms (CLRS) 4th Edition - THOMAS H. CORMEN](https://github.com/arjunmnath/books/blob/main/DSA/clrs.pdf)
 
 ## Data Science
 - [An Introduct to Mathematical Statistics and Its Applications 5th Edition - Richard Larsen](https://github.com/arjunmnath/books/blob/main/Data%20Science/Introduction-to-Mathematical-Statistics.pdf)
@@ -24,7 +24,7 @@
 - [Python for Data Science 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
 - [Practical Artifical Intelligence with Swift - Mars Geldard, Jonathon Manning](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/dl-with-swift.pdf)
 - [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
-- [Mathematics for Machine Learning - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/mml-book.pdf)
+- [Mathematics for Machine Learning (MML) - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/mml-book.pdf)
 - [Practical Deep Learning for Cloud, Mobile & Edge - Anirudh Koul, Siddha Ganju & Meher Kasam](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/practical-DL-for-cloud-mobile-and-edge.pdf)
 - [Programming PyTorch for Deep Learning - lan Pointer](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/programming-pytorch-for-DL.pdf)
 - [PyTorch Pocket Reference - Joe Papa](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/pytorch-pocket-reference.pdf)
