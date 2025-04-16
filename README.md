@@ -14,7 +14,8 @@
 - [An Introduct to Mathematical Statistics and Its Applications 5th Edition - Richard Larsen](https://github.com/arjunmnath/books/blob/main/Data%20Science/Introduction-to-Mathematical-Statistics.pdf)
 - [The Elements of Statistical Learning 2nd Edition - Hastie, Tibshirani, Friedman ](https://github.com/arjunmnath/books/blob/main/Data%20Science/The-Elements-of-Statistical-Learning.pdf)
 - [Mathematical Statistics and Data Analysis 3rd Edition - John. A. Rice](https://github.com/arjunmnath/books/blob/main/Data%20Science/Mathematical-Statistics-and-Data-Analysis.pdf)
-
+- [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
+- 
 ## Deep Learning
 - [Zero to Deep Learning with Keras and Tensorflow - Francesco Mosconi](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/0%20to%20DL.pdf)
 - [Artifical Intelligence, A Modern Approach 3rd Edition - Russell, Norvig](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/AI%20a%20modern%20approach.pdf)
@@ -28,4 +29,4 @@
 - [Practical Deep Learning for Cloud, Mobile & Edge - Anirudh Koul, Siddha Ganju & Meher Kasam](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/practical-DL-for-cloud-mobile-and-edge.pdf)
 - [Programming PyTorch for Deep Learning - lan Pointer](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/programming-pytorch-for-DL.pdf)
 - [PyTorch Pocket Reference - Joe Papa](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/pytorch-pocket-reference.pdf)
-- [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
+
