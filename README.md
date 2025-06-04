@@ -13,7 +13,7 @@
 
 ## Core Electronics
 - [Understanding Digital Signal Processing 3rd Edition - Richard G. Lyons](https://github.com/arjunmnath/books/blob/main/miscellaneous/Understanding-Digital-Signal-Processing.pdf)
-  
+- [The Art of Electronics 3rd Edition -  Paul Horowitz, Winfield Hill](https://github.com/arjunmnath/books/blob/main/robotics/_The%20Art%20of%20Electronics%203rd%20ed%20%5B2015%5D.pdf)
 ## DSA
 - [The C Programming Language - Dennis Ritchie](https://github.com/arjunmnath/books/blob/main/DSA/C-Programming-Ritchie.pdf)
 - [Data Structures And Algorithms Made Easy 5th Editiion - Narasimha Karumanchi](https://github.com/arjunmnath/books/blob/main/DSA/DSA-%20Narasimha%20Karumanchi-4.pdf)
