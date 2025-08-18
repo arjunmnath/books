@@ -13,22 +13,24 @@
 
 
 ## Core Electronics
+- [The Art of Electronics 3rd Edition - Paul Horowitz, Winfield Hill](https://github.com/arjunmnath/books/blob/main/robotics/_The%20Art%20of%20Electronics%203rd%20ed%20%5B2015%5D.pdf)
 - [Understanding Digital Signal Processing 3rd Edition - Richard G. Lyons](https://github.com/arjunmnath/books/blob/main/miscellaneous/Understanding-Digital-Signal-Processing.pdf)
-- [The Art of Electronics 3rd Edition -  Paul Horowitz, Winfield Hill](https://github.com/arjunmnath/books/blob/main/robotics/_The%20Art%20of%20Electronics%203rd%20ed%20%5B2015%5D.pdf)
+
 ## DSA
-- [The C Programming Language - Dennis Ritchie](https://github.com/arjunmnath/books/blob/main/DSA/C-Programming-Ritchie.pdf)
-- [Data Structures And Algorithms Made Easy 5th Editiion - Narasimha Karumanchi](https://github.com/arjunmnath/books/blob/main/DSA/DSA-%20Narasimha%20Karumanchi-4.pdf)
+- [Algorithm Design - Jon Kleinberg, Eva Tardos](https://github.com/arjunmnath/books/blob/main/course-curriculum/Eva%20Tardos.pdf)
+- [Data Structures And Algorithms Made Easy 5th Edition - Narasimha Karumanchi](https://github.com/arjunmnath/books/blob/main/DSA/DSA-%20Narasimha%20Karumanchi-4.pdf)
 - [Grokking algorithms - Aditya Y. Bhargava](https://github.com/arjunmnath/books/blob/main/DSA/Grokking-Algorithms.pdf)
 - [Introduction to algorithms (CLRS) 4th Edition - THOMAS H. CORMEN](https://github.com/arjunmnath/books/blob/main/DSA/clrs.pdf)
-- [Algorithm Design - Jon Kleinberg, Eva Tardos](https://github.com/arjunmnath/books/blob/main/course-curriculum/Eva%20Tardos.pdf)
+- [The C Programming Language - Dennis Ritchie](https://github.com/arjunmnath/books/blob/main/DSA/C-Programming-Ritchie.pdf)
 
 ## Data Science
 - [An Introduct to Mathematical Statistics and Its Applications 5th Edition - Richard Larsen](https://github.com/arjunmnath/books/blob/main/Data%20Science/Introduction-to-Mathematical-Statistics.pdf)
-- [The Elements of Statistical Learning 2nd Edition - Hastie, Tibshirani, Friedman ](https://github.com/arjunmnath/books/blob/main/Data%20Science/The-Elements-of-Statistical-Learning.pdf)
-- [Mathematical Statistics and Data Analysis 3rd Edition - John. A. Rice](https://github.com/arjunmnath/books/blob/main/Data%20Science/Mathematical-Statistics-and-Data-Analysis.pdf)
-- [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 - [An Introduction to Statistical Learning with Applications in Python - James, Witten, Hastie, Tibshirani, Taylor](https://github.com/arjunmnath/books/blob/main/ml-important/ISLP_website.pdf)
+- [Mathematical Statistics and Data Analysis 3rd Edition - John. A. Rice](https://github.com/arjunmnath/books/blob/main/Data%20Science/Mathematical-Statistics-and-Data-Analysis.pdf)
 - [Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Andrew_Bruce-Practical_Statistics_for_Data_Scientist.pdf)
+- [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
+- [The Elements of Statistical Learning 2nd Edition - Hastie, Tibshirani, Friedman](https://github.com/arjunmnath/books/blob/main/Data%20Science/The-Elements-of-Statistical-Learning.pdf)
+
 
 ## Deep Learning
 - [Zero to Deep Learning with Keras and Tensorflow - Francesco Mosconi](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/0%20to%20DL.pdf)
