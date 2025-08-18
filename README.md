@@ -1,15 +1,16 @@
 # books
 
 ## Core Computer Science
-- [Database System Concepts 4th Edition - Silberschatz, Korth, Sudarshan](https://github.com/arjunmnath/books/blob/main/Gate/Korth%20DBMS.pdf)
-- [Introduction to Theory of Computation - Anil Maheshwari, Michiel Smid](https://github.com/arjunmnath/books/blob/main/Gate/TheoryOfComputation.pdf)
 - [An Introduction to Formal Languages and Automata 6th edition - Peter Linz](https://github.com/arjunmnath/books/blob/main/sem4/An%20Introduction%20to%20Formal%20Languages%20and%20Automata%206th%20Edition.pdf)
-- [Introduction to Theory of Computation 3rd Edition - Michael Sipser](https://github.com/arjunmnath/books/blob/main/sem4/toc-michael-sipser.pdf)
-- [200 Problems in Formal Languages and Automata Theory - Niwinski, Rytter](https://github.com/arjunmnath/books/blob/main/Gate/200-problems-toc.pdf)
-- [Operating System Concepts 10th Edition - Abraham Silberschatz, Peter Galvin, Greg Gagne](https://github.com/arjunmnath/books/blob/main/course-curriculum/Abraham-Silberschatz-OS.pdf)
-- [Compilers - Principles, Techniques and Tools 2nd Edition -  Ullman, Aho, Lam, Sethi](https://github.com/arjunmnath/books/blob/main/sem4/compiler-ullman.pdf)
-- [Data Communications and Networking 4th Edition - Behrouz A. Forouzan ](https://github.com/arjunmnath/books/blob/main/sem4/networks-forouzan.pdf)
+- [Compilers - Principles, Techniques and Tools 2nd Edition - Ullman, Aho, Lam, Sethi](https://github.com/arjunmnath/books/blob/main/sem4/compiler-ullman.pdf)
 - [Computer System Architecture 3rd Edition - Morris Mano ](https://github.com/arjunmnath/books/blob/main/miscellaneous/Morris-mano.pdf)
+- [Data Communications and Networking 4th Edition - Behrouz A. Forouzan ](https://github.com/arjunmnath/books/blob/main/sem4/networks-forouzan.pdf)
+- [Database System Concepts 4th Edition - Silberschatz, Korth, Sudarshan](https://github.com/arjunmnath/books/blob/main/Gate/Korth%20DBMS.pdf)
+- [Introduction to Theory of Computation 3rd Edition - Michael Sipser](https://github.com/arjunmnath/books/blob/main/sem4/toc-michael-sipser.pdf)
+- [Introduction to Theory of Computation - Anil Maheshwari, Michiel Smid](https://github.com/arjunmnath/books/blob/main/Gate/TheoryOfComputation.pdf)
+- [Operating System Concepts 10th Edition - Abraham Silberschatz, Peter Galvin, Greg Gagne](https://github.com/arjunmnath/books/blob/main/course-curriculum/Abraham-Silberschatz-OS.pdf)
+- [200 Problems in Formal Languages and Automata Theory - Niwinski, Rytter](https://github.com/arjunmnath/books/blob/main/Gate/200-problems-toc.pdf)
+
 
 ## Core Electronics
 - [Understanding Digital Signal Processing 3rd Edition - Richard G. Lyons](https://github.com/arjunmnath/books/blob/main/miscellaneous/Understanding-Digital-Signal-Processing.pdf)
