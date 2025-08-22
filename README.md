@@ -55,7 +55,7 @@
 - [🌟Deep Learning - lan Goodfellow, Yoshua Bengio & Aaron Courville]()
 - [Deep Learning for Coders with fastai & PyTorch - Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
 - [Deep Learning from Scratch - Seth Weidman](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep%20Learning%20from%20Scratch%20by%20Seth%20Weidman.pdf)
-- [🌟 Deep Learning with Python 2nd Edition - François Chollet](https://github.com/arjunmnath/books/blob/main/ml-important/DL-with-PY-chollet.pdf)
+- [🌟 Deep Learning with Python 2nd Edition - François Chollet](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/DL-with-PY-chollet.pdf)
 - [GANs in Action - Jakub Langr & Vladimir Bok]()
 - [Generative Deep Learning 2e - David Foster]()
 - [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
