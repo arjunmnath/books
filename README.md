@@ -25,7 +25,7 @@
 
 ## Data Science
 - [An Introduct to Mathematical Statistics and Its Applications 5th Edition - Richard Larsen](https://github.com/arjunmnath/books/blob/main/Data%20Science/Introduction-to-Mathematical-Statistics.pdf)
-- [An Introduction to Statistical Learning with Applications in Python - James, Witten, Hastie, Tibshirani, Taylor](https://github.com/arjunmnath/books/blob/main/ml-important/ISLP_website.pdf)
+- [🌟 An Introduction to Statistical Learning with Applications in Python - James, Witten, Hastie, Tibshirani, Taylor](https://github.com/arjunmnath/books/blob/main/machine-learning/ISLP_website.pdf)
 - [Mathematical Statistics and Data Analysis 3rd Edition - John. A. Rice](https://github.com/arjunmnath/books/blob/main/Data%20Science/Mathematical-Statistics-and-Data-Analysis.pdf)
 - [Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Andrew_Bruce-Practical_Statistics_for_Data_Scientist.pdf)
 - [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
@@ -33,19 +33,36 @@
 
 ## AI/ML
 
+- [AI Engineering - Building Applications With Foundational Models - Chip Huyen]()
+- [Applied Machine Learning and AI for Engineers - Jeff Prosise]()
 - [Artificial Intelligence, A Modern Approach 3rd Edition - Russell, Norvig](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/AI%20a%20modern%20approach.pdf)
--  [Designing Machine Learning Systems - Chip Huyen](https://github.com/arjunmnath/books/blob/main/ml-important/designing-machine-learning-systems.pdf)
-- [Hands on Machine Learning with Scikit-Learn, Keras & Tensorflow 2nd Edition - Aurélien Géron](https://github.com/arjunmnath/books/blob/main/ml-important/Hands-On-Machine-Learning.pdf)
-- [Machine Learning Engineering - Andriy Burkov](https://github.com/arjunmnath/books/blob/main/ml-important/machine-learning-engineering.pdf)
-- [Machine Learning with PyTorch & Scikit-Learn - Sebastian Raschka, Hayden Liu, Vahid Mirjalili](https://github.com/arjunmnath/books/blob/main/ml-important/hands%20on%20ml%20with%20pytorch%20%26%20sklearn.pdf)
+- [Building Machine Learning Powered Applications - Emmanuel Ameisen]()
+- [🌟 Designing Machine Learning Systems - Chip Huyen](https://github.com/arjunmnath/books/blob/main/machine-learning/designing-machine-learning-systems.pdf)
+- [🌟 Hands on Machine Learning with Scikit-Learn, Keras & Tensorflow 2nd Edition - Aurélien Géron](https://github.com/arjunmnath/books/blob/main/machine-learning/Hands-On-Machine-Learning.pdf)
+- [🌟 Machine Learning A Probabilistic Perspective - Kevin P. Murphy]()
+- [🌟 Machine Learning Engineering - Andriy Burkov](https://github.com/arjunmnath/books/blob/main/machine-learning/machine-learning-engineering.pdf)
+- [Machine Learning for Absolute Beginners 3e - Oliver Theobald]()
+- [Machine Learning for Humans - Vishal Maini & Samer Sabri]()
+- [🌟 Machine Learning with PyTorch & Scikit-Learn - Sebastian Raschka, Hayden Liu, Vahid Mirjalili](https://github.com/arjunmnath/books/blob/main/machine-learning/hands%20on%20ml%20with%20pytorch%20%26%20sklearn.pdf)
 - [Mathematics for Machine Learning (MML) - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/mml-book.pdf)
+- [Pattern Recognition and Machine Learning - Christopher M. Bishop]()
+- [Practical MLOps, Operationalizing Machine Learning Models - Noah Gift & Alfredo Deza]()
+- [Probabilistic Machine Learning: Advanced Topics - Kevin P. Murphy]()
+  
 
 
 ## Deep Learning
+- [🌟Deep Learning - lan Goodfellow, Yoshua Bengio & Aaron Courville]()
 - [Deep Learning for Coders with fastai & PyTorch - Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
 - [Deep Learning from Scratch - Seth Weidman](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep%20Learning%20from%20Scratch%20by%20Seth%20Weidman.pdf)
-- [Deep Learning with Python 2nd Edition - François Chollet](https://github.com/arjunmnath/books/blob/main/ml-important/DL-with-PY-chollet.pdf)
+- [🌟 Deep Learning with Python 2nd Edition - François Chollet](https://github.com/arjunmnath/books/blob/main/ml-important/DL-with-PY-chollet.pdf)
+- [GANs in Action - Jakub Langr & Vladimir Bok]()
+- [Generative Deep Learning 2e - David Foster]()
 - [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
+- [Hands-On Generative Al with Transformers and Diffusion Models - Omar Sanseviero, Pedro Cuenca, Apolinário Passos & Jonathan Whitaker]()
+- [🌟Hands-On Large Language Models - Jay Alammar & Maarten Grootendorst]()
+- [🌟LLM Engineer's Handbook - Paul lusztin & Maxime Labonne]()
+- [Natural Language Processing with Transformers - Lewis Tunstall, Leandro von Werra & Thomas Wolf]()
 - [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/dl-with-swift.pdf)
 - [Practical Deep Learning for Cloud, Mobile & Edge - Anirudh Koul, Siddha Ganju & Meher Kasam](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/practical-DL-for-cloud-mobile-and-edge.pdf)
 - [Programming PyTorch for Deep Learning - Ian Pointer](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/programming-pytorch-for-DL.pdf)
