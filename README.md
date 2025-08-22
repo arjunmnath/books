@@ -31,61 +31,68 @@
 - [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 - [The Elements of Statistical Learning 2nd Edition - Hastie, Tibshirani, Friedman](https://github.com/arjunmnath/books/blob/main/Data%20Science/The-Elements-of-Statistical-Learning.pdf)
 
+## AI/ML
+
+- [Artificial Intelligence, A Modern Approach 3rd Edition - Russell, Norvig](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/AI%20a%20modern%20approach.pdf)
+-  [Designing Machine Learning Systems - Chip Huyen](https://github.com/arjunmnath/books/blob/main/ml-important/designing-machine-learning-systems.pdf)
+- [Hands on Machine Learning with Scikit-Learn, Keras & Tensorflow 2nd Edition - Aurélien Géron](https://github.com/arjunmnath/books/blob/main/ml-important/Hands-On-Machine-Learning.pdf)
+- [Machine Learning Engineering - Andriy Burkov](https://github.com/arjunmnath/books/blob/main/ml-important/machine-learning-engineering.pdf)
+- [Machine Learning with PyTorch & Scikit-Learn - Sebastian Raschka, Hayden Liu, Vahid Mirjalili](https://github.com/arjunmnath/books/blob/main/ml-important/hands%20on%20ml%20with%20pytorch%20%26%20sklearn.pdf)
+- [Mathematics for Machine Learning (MML) - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/mml-book.pdf)
+
 
 ## Deep Learning
-- [Zero to Deep Learning with Keras and Tensorflow - Francesco Mosconi](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/0%20to%20DL.pdf)
-- [Artifical Intelligence, A Modern Approach 3rd Edition - Russell, Norvig](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/AI%20a%20modern%20approach.pdf)
+- [Deep Learning for Coders with fastai & PyTorch - Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
 - [Deep Learning from Scratch - Seth Weidman](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep%20Learning%20from%20Scratch%20by%20Seth%20Weidman.pdf)
-- [Deep Learning for Coders with fastai & PyTorch Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
-- [Python for Data Analysis 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
-- [Practical Artifical Intelligence with Swift - Mars Geldard, Jonathon Manning](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/dl-with-swift.pdf)
-- [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
-- [Mathematics for Machine Learning (MML) - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/mml-book.pdf)
-- [Practical Deep Learning for Cloud, Mobile & Edge - Anirudh Koul, Siddha Ganju & Meher Kasam](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/practical-DL-for-cloud-mobile-and-edge.pdf)
-- [Programming PyTorch for Deep Learning - lan Pointer](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/programming-pytorch-for-DL.pdf)
-- [PyTorch Pocket Reference - Joe Papa](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/pytorch-pocket-reference.pdf)
 - [Deep Learning with Python 2nd Edition - François Chollet](https://github.com/arjunmnath/books/blob/main/ml-important/DL-with-PY-chollet.pdf)
-- [Hands on Machine Learning with Scikit-Learn, Keras & Tensorflow 2nd Edition - Aurélien Géron](https://github.com/arjunmnath/books/blob/main/ml-important/Hands-On-Machine-Learning.pdf)
-- [Designing Machine Learning Systems - Chip Huyen](https://github.com/arjunmnath/books/blob/main/ml-important/designing-machine-learning-systems.pdf)
-- [Machine Learning with PyTroch & Scikit-Learn - Sebastian Raschka, Hayden Liu, Vahid Mirjalili ](https://github.com/arjunmnath/books/blob/main/ml-important/hands%20on%20ml%20with%20pytorch%20%26%20sklearn.pdf)
-- [Machine learning Engineering - Andriy Burkov](https://github.com/arjunmnath/books/blob/main/ml-important/machine-learning-engineering.pdf)
+- [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
+- [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/dl-with-swift.pdf)
+- [Practical Deep Learning for Cloud, Mobile & Edge - Anirudh Koul, Siddha Ganju & Meher Kasam](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/practical-DL-for-cloud-mobile-and-edge.pdf)
+- [Programming PyTorch for Deep Learning - Ian Pointer](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/programming-pytorch-for-DL.pdf)
+- [Python for Data Analysis 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
+- [Zero to Deep Learning with Keras and Tensorflow - Francesco Mosconi](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/0%20to%20DL.pdf)
 
 
 ## Robotics
 - [Robotics, Vision and Control 3rd Edition - Peter Croke](https://github.com/arjunmnath/books/blob/main/robotics/Robotics%20Vision%20and%20Control%20-%20Fundamental%20Algorithm%20in%20Python%203rd%20Edition.pdf)
 
 ## Linux
-- [How Linux Works, What Every SuperUser Should Know 2nd Edition - Brian Ward](https://github.com/arjunmnath/books/blob/main/Linux/How-Linux-Works-What-Every-Superuser-Should-Know.pdf)
 - [Unix for Poets - Kenneth Ward Church](https://github.com/arjunmnath/books/blob/main/Linux/Unix-for-Poets.pdf)
+- [How Linux Works, What Every SuperUser Should Know 2nd Edition - Brian Ward](https://github.com/arjunmnath/books/blob/main/Linux/How-Linux-Works-What-Every-Superuser-Should-Know.pdf)
 
 ## Engineering Mathematics
-- [Probability and Statistics for Engineers and Scientists 4th Edition - Sheldon Ross](https://github.com/arjunmnath/books/blob/main/Gate/Ross%20S.M.%20-%20Introduction%20to%20probability%20and%20statistics%20for%20engineers%20and%20scientists-AP%20(2009).pdf)
-- [Introductory Statistics 4th Edition - Sheldon Ross](https://github.com/arjunmnath/books/blob/main/Gate/Ross%20S.M.%20-%20Introductory%20statistics-ELSEVIER%20ACADEMIC%20PRESS%20(2017).pdf)
-- [Probablity and Statistics for Engineering and the Sciences 8th Edition - Jay L. Devore](https://github.com/arjunmnath/books/blob/main/Gate/probability_and_statistics_for_engineering_and_the_sciences.pdf)
-- [Introduction to Linear Algebra 5th Edition - Gilbert Strang](https://github.com/arjunmnath/books/blob/main/Gate/Gilbert_Strang_Linear_Algebra.pdf)
-- [Lambda-Calculus and Combinators an Introduction - J. Roger Hindley and Jonathan P. Seldin](https://github.com/arjunmnath/books/blob/main/maths/Lambda-Calculus%20and%20Combinators.pdf)
-- [The Princeton Companion to Mathematics](https://github.com/arjunmnath/books/blob/main/maths/The-Princeton-Companion-to-Mathematics.pdf)
-- [Naked Statistics, Stripping the Dead from The Data - Charles Wheelan](https://github.com/arjunmnath/books/blob/main/maths/naked-statistics.pdf)
 - [Advanced Engineering Mathematics 10th Edition - Erwin Kreyszig](https://github.com/arjunmnath/books/blob/main/sem4/advanced-engineering-math-erwin.pdf)
 - [Discrete Mathematics and its Applications 8th Edition - Kenneth. H. Rosen](https://github.com/arjunmnath/books/blob/main/Gate/Maths-Discrete%20Mathematics%20%26%20its%20Applications%208th%20Ed.pdf)
+- [Introduction to Linear Algebra 5th Edition - Gilbert Strang](https://github.com/arjunmnath/books/blob/main/Gate/Gilbert_Strang_Linear_Algebra.pdf)
+- [Introductory Statistics 4th Edition - Sheldon Ross](https://github.com/arjunmnath/books/blob/main/Gate/Ross%20S.M.%20-%20Introductory%20statistics-ELSEVIER%20ACADEMIC%20PRESS%20%282017%29.pdf)
+- [Lambda-Calculus and Combinators an Introduction - J. Roger Hindley and Jonathan P. Seldin](https://github.com/arjunmnath/books/blob/main/maths/Lambda-Calculus%20and%20Combinators.pdf)
+- [Naked Statistics, Stripping the Dead from The Data - Charles Wheelan](https://github.com/arjunmnath/books/blob/main/maths/naked-statistics.pdf)
+- [Probability and Statistics for Engineers and Scientists 4th Edition - Sheldon Ross](https://github.com/arjunmnath/books/blob/main/Gate/Ross%20S.M.%20-%20Introduction%20to%20probability%20and%20statistics%20for%20engineers%20and%20scientists-AP%20%282009%29.pdf)
+- [Probablity and Statistics for Engineering and the Sciences 8th Edition - Jay L. Devore](https://github.com/arjunmnath/books/blob/main/Gate/probability_and_statistics_for_engineering_and_the_sciences.pdf)
+- [The Princeton Companion to Mathematics](https://github.com/arjunmnath/books/blob/main/maths/The-Princeton-Companion-to-Mathematics.pdf)
+
+
 
 ## Low Level Hardware Releated 
 - [The Art of x86 assembly - Randall Hyde](https://github.com/arjunmnath/books/blob/main/Core%20CSE/Art%20Of%20Intel%20x86%20Assembly.pdf)
 - [The hidden langugage of computer hardware and software - Charles Petzold](https://github.com/arjunmnath/books/blob/main/Core%20CSE/Code.pdf)
 
 ## Miscellaneous
+- [Buidling Microservices: Designing Fine-Grained Systems - Sam Newman](https://github.com/arjunmnath/books/blob/main/miscellaneous/Sam%20Newman-Building%20Microservices-O_Reilly%20Media%20%282015%29.pdf)
+-  [Cracking the Coding Interview 6th Edition - Gayle Laakmaan Mcdowell](https://github.com/arjunmnath/books/blob/main/miscellaneous/Cracking-the-Coding-Interview.pdf)
+- [Doing Math with Python - Amit Shah](https://github.com/arjunmnath/books/blob/main/math-note-references/Doing-Math-With-Python.pdf)
+- [Elements of Information Theory 2nd Edition - Thomas M. Cover, Joy A. Thomas](https://github.com/arjunmnath/books/blob/main/miscellaneous/Elements-of-Information-Theory.pdf)
+- [Flask Web Development 2nd Edition - Miguel Grinberg](https://github.com/arjunmnath/books/blob/main/miscellaneous/Flask-Web-Development.pdf)
+- [Internet Routing Architectures 2nd Edition - Sam Halabi](https://github.com/arjunmnath/books/blob/main/miscellaneous/Internet-Routing-Architectures.pdf)
+- [Learn Python 3 the Hard Way - Zed A. Shaw](https://github.com/arjunmnath/books/blob/main/miscellaneous/Learn-Python-3-The-Hard-Way.pdf)
+- [Mastering Python Regular Expressions - Félix López, Víctor Romero](https://github.com/arjunmnath/books/blob/main/miscellaneous/Mastering-Python-Regular-Expressions.pdf)
+- [SQL Cookbook 2nd Edition - Anthony Molinaro, Robert de Graaf](https://github.com/arjunmnath/books/blob/main/miscellaneous/SQL-Cookbook.pdf)
+- [Structure and Interpretation of Computer Programs 2nd Edition - Harold Abelson, Gerald Jay Sussman](https://github.com/arjunmnath/books/blob/main/miscellaneous/The-Structure-and-Interpretation-of-Computer-Programs.pdf)
 - [The Matrix Cookbook - Kaare Brandt Petersen, Michael Syskind Pedersen](https://github.com/arjunmnath/books/blob/main/miscellaneous/matrixcookbook.pdf)
 - [The Rust Programming Language](https://github.com/arjunmnath/books/blob/main/miscellaneous/The.Rust.Programming.Language.pdf)
-- [Structure and Intrepretation of Computer Programs 2nd Edition - Harold Abelson, Gerald Jay Sussman](https://github.com/arjunmnath/books/blob/main/miscellaneous/The-Structure-and-Interpretation-of-Computer-Programs.pdf)
-- [Buidling Mircoservices: Desgining Fine-Grained Systems - Sam Newman](https://github.com/arjunmnath/books/blob/main/miscellaneous/Sam%20Newman-Building%20Microservices-O_Reilly%20Media%20(2015).pdf)
-- [SQL Cookbook 2nd Edition - Anthony Molinaro, Robert de Graaf](https://github.com/arjunmnath/books/blob/main/miscellaneous/SQL-Cookbook.pdf)
-- [Mastering Python Regular Expressions - Félix López, Víctor Romero ](https://github.com/arjunmnath/books/blob/main/miscellaneous/Mastering-Python-Regular-Expressions.pdf)
-- [Learn Python 3 the Hard Way - Zed A. Shaw](https://github.com/arjunmnath/books/blob/main/miscellaneous/Learn-Python-3-The-Hard-Way.pdf)
-- [Internet Routing Architectures 2nd Edition - Sam Halabi](https://github.com/arjunmnath/books/blob/main/miscellaneous/Internet-Routing-Architectures.pdf)
-- [Flask Web Development 2nd Edition - Miguel Grinberg](https://github.com/arjunmnath/books/blob/main/miscellaneous/Flask-Web-Development.pdf)
-- [Elements of Information Theory 2nd Edition - Thomas M. Cover, Joy A. Thomas ](https://github.com/arjunmnath/books/blob/main/miscellaneous/Elements-of-Information-Theory.pdf)
-- [Cracking the Coding Interview 6th Edition - Gayle Laakmaan Mcdowell](https://github.com/arjunmnath/books/blob/main/miscellaneous/Cracking-the-Coding-Interview.pdf)
-- [Doing Math with Python - Amit Shah](https://github.com/arjunmnath/books/blob/main/math-note-references/Doing-Math-With-Python.pdf)
+
+
+
 ## CheatSheets
 - [Rust Langugage v2.0.2 ](https://github.com/arjunmnath/books/blob/main/miscellaneous/cheatsheets/Rust_Cheat_Sheet_2.0.2.pdf)
 
