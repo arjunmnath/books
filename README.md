@@ -33,21 +33,21 @@
 
 ## AI/ML
 
-- [AI Engineering - Building Applications With Foundational Models - Chip Huyen]()
-- [Applied Machine Learning and AI for Engineers - Jeff Prosise]()
-- [Artificial Intelligence, A Modern Approach 3rd Edition - Russell, Norvig](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/AI%20a%20modern%20approach.pdf)
-- [Building Machine Learning Powered Applications - Emmanuel Ameisen]()
+- [AI Engineering - Building Applications With Foundational Models - Chip Huyen](https://github.com/arjunmnath/books/blob/53047432d4af5af62ad9e786da56be5609a6e313/machine-learning/AI%20Engineering.pdf)
+- [Applied Machine Learning and AI for Engineers - Jeff Prosise](https://github.com/arjunmnath/books/blob/53047432d4af5af62ad9e786da56be5609a6e313/machine-learning/Applied-Machine-Learning-and-AI-for-Engineers.pdf)
+- [Artificial Intelligence, A Modern Approach 3rd Edition - Russell, Norvig](https://github.com/arjunmnath/books/blob/f9c507b5470159aeb0ca3872272a4b4bda681f3a/machine-learning/Artificial%20Intelligence.%20A%20modern%20approach%20(Stuart%20Russell%20%20Peter%20Norvig)%20(Z-Library).pdf)
+- [Building Machine Learning Powered Applications - Emmanuel Ameisen](https://github.com/arjunmnath/books/blob/f9c507b5470159aeb0ca3872272a4b4bda681f3a/machine-learning/building-machine-learning-powered-applications-going-from-idea-to-product.pdf)
 - [🌟 Designing Machine Learning Systems - Chip Huyen](https://github.com/arjunmnath/books/blob/main/machine-learning/designing-machine-learning-systems.pdf)
 - [🌟 Hands on Machine Learning with Scikit-Learn, Keras & Tensorflow 2nd Edition - Aurélien Géron](https://github.com/arjunmnath/books/blob/main/machine-learning/Hands-On-Machine-Learning.pdf)
-- [🌟 Machine Learning A Probabilistic Perspective - Kevin P. Murphy]()
+- [🌟 Machine Learning A Probabilistic Perspective - Kevin P. Murphy](https://github.com/arjunmnath/books/blob/f9c507b5470159aeb0ca3872272a4b4bda681f3a/machine-learning/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
 - [🌟 Machine Learning Engineering - Andriy Burkov](https://github.com/arjunmnath/books/blob/main/machine-learning/machine-learning-engineering.pdf)
-- [Machine Learning for Absolute Beginners 3e - Oliver Theobald]()
-- [Machine Learning for Humans - Vishal Maini & Samer Sabri]()
+- [Machine Learning for Absolute Beginners 3e - Oliver Theobald](https://github.com/arjunmnath/books/blob/f9c507b5470159aeb0ca3872272a4b4bda681f3a/machine-learning/Machine-Learning-for-Absolute-Beginners.pdf)
+- [Machine Learning for Humans - Vishal Maini & Samer Sabri](https://github.com/arjunmnath/books/blob/f9c507b5470159aeb0ca3872272a4b4bda681f3a/machine-learning/machine_learning.pdf)
 - [🌟 Machine Learning with PyTorch & Scikit-Learn - Sebastian Raschka, Hayden Liu, Vahid Mirjalili](https://github.com/arjunmnath/books/blob/main/machine-learning/hands%20on%20ml%20with%20pytorch%20%26%20sklearn.pdf)
-- [Mathematics for Machine Learning (MML) - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/mml-book.pdf)
-- [Pattern Recognition and Machine Learning - Christopher M. Bishop]()
-- [Practical MLOps, Operationalizing Machine Learning Models - Noah Gift & Alfredo Deza]()
-- [Probabilistic Machine Learning: Advanced Topics - Kevin P. Murphy]()
+- [Mathematics for Machine Learning (MML) - Deisenrotl, Faisa, Cheng](https://github.com/arjunmnath/books/blob/main/machine-learning/mml-book.pdf)
+- [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://github.com/arjunmnath/books/blob/b7ab82f2df75327b59db2998a548c1d9197a5f18/machine-learning/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Practical MLOps, Operationalizing Machine Learning Models - Noah Gift & Alfredo Deza](https://github.com/arjunmnath/books/blob/b7ab82f2df75327b59db2998a548c1d9197a5f18/machine-learning/Practical%20MLOps_%20Operationalizing%20Machine%20Learning%20Models_compressed.pdf)
+- [Probabilistic Machine Learning: Advanced Topics - Kevin P. Murphy](https://github.com/arjunmnath/books/blob/b7ab82f2df75327b59db2998a548c1d9197a5f18/machine-learning/Probabilistic%20Machine%20Learning%20Advanced%20Topics...%20(Z-Library)_compressed.pdf)
   
 
 
