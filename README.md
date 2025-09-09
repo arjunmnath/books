@@ -26,6 +26,7 @@
 ## Data Science
 - [An Introduct to Mathematical Statistics and Its Applications 5th Edition - Richard Larsen](https://github.com/arjunmnath/books/blob/main/Data%20Science/Introduction-to-Mathematical-Statistics.pdf)
 - [🌟 An Introduction to Statistical Learning with Applications in Python - James, Witten, Hastie, Tibshirani, Taylor](https://github.com/arjunmnath/books/blob/main/machine-learning/ISLP_website.pdf)
+- [Linear Algebra for Data Science - Moshe Haviv](https://github.com/arjunmnath/books/blob/8bf539c61b1de8c75beb50769af48d09ab2ea9d0/Data%20Science/linear-algebra-for-data-science-moshe-haviv.pdf)
 - [Mathematical Statistics and Data Analysis 3rd Edition - John. A. Rice](https://github.com/arjunmnath/books/blob/main/Data%20Science/Mathematical-Statistics-and-Data-Analysis.pdf)
 - [Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Andrew_Bruce-Practical_Statistics_for_Data_Scientist.pdf)
 - [Storytelling with Data - cole nussbaumer knaflic](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
@@ -80,6 +81,7 @@
 ## Engineering Mathematics
 - [Advanced Engineering Mathematics 10th Edition - Erwin Kreyszig](https://github.com/arjunmnath/books/blob/main/sem4/advanced-engineering-math-erwin.pdf)
 - [Discrete Mathematics and its Applications 8th Edition - Kenneth. H. Rosen](https://github.com/arjunmnath/books/blob/main/Gate/Maths-Discrete%20Mathematics%20%26%20its%20Applications%208th%20Ed.pdf)
+- [🌟Exercises And Problems in Linear Algebra - John M. Erdman](https://github.com/arjunmnath/books/blob/8bf539c61b1de8c75beb50769af48d09ab2ea9d0/maths/exercies-and-problems-in-linear-algebra-erdman.pdf)
 - [Introduction to Linear Algebra 5th Edition - Gilbert Strang](https://github.com/arjunmnath/books/blob/main/Gate/Gilbert_Strang_Linear_Algebra.pdf)
 - [Introductory Statistics 4th Edition - Sheldon Ross](https://github.com/arjunmnath/books/blob/main/Gate/Ross%20S.M.%20-%20Introductory%20statistics-ELSEVIER%20ACADEMIC%20PRESS%20%282017%29.pdf)
 - [Lambda-Calculus and Combinators an Introduction - J. Roger Hindley and Jonathan P. Seldin](https://github.com/arjunmnath/books/blob/main/maths/Lambda-Calculus%20and%20Combinators.pdf)
