@@ -110,11 +110,16 @@
 - [The Matrix Cookbook - Kaare Brandt Petersen, Michael Syskind Pedersen](https://github.com/arjunmnath/books/blob/main/miscellaneous/matrixcookbook.pdf)
 - [The Rust Programming Language](https://github.com/arjunmnath/books/blob/main/miscellaneous/The.Rust.Programming.Language.pdf)
 
-
-
 ## CheatSheets
 - [Rust Langugage v2.0.2 ](https://github.com/arjunmnath/books/blob/main/miscellaneous/cheatsheets/Rust_Cheat_Sheet_2.0.2.pdf)
 
 ## Cognitive Science
 - [Cognitive Science, An Introduction to the Science of the Mind 3rd Edition - José Luis Bermidez](https://github.com/arjunmnath/books/blob/main/coginitive-science/Cognitive%20science%20-%20Bermúdez.pdf)
 - [Cognitive Science, An Introduction to the Study of Mind - Jay Friedenberg, Gordon Silverman](https://github.com/arjunmnath/books/blob/main/coginitive-science/Friedenberg_Cognitive%20science.pdf)
+
+## Computational Neuroscience
+- [Biophysics of Computation - Christof Koch](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/biophysics-of-computation-christof-koch.pdf)
+- [Computational Neuroscience - A comprehensive approach](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/Computational.Neuroscience-A.Comprehensive.Approach.pdf)
+- [Neuroscience, Exploring the Brain - Mark F. Bear, Barry W. Connors, Michael A. Paradiso](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/Neuroscience%20-%20Bear.pdf)
+- [🌟The Brain Book - Rita Carter](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/the-brain-book-rita-carter.pdf)
+- [Theoretical Neuroscience - Peter Dayan & L.F. Abbott](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/theoretical-neuroscience.pdf)
