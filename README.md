@@ -90,7 +90,9 @@
 - [Probablity and Statistics for Engineering and the Sciences 8th Edition - Jay L. Devore](https://github.com/arjunmnath/books/blob/main/Gate/probability_and_statistics_for_engineering_and_the_sciences.pdf)
 - [The Princeton Companion to Mathematics](https://github.com/arjunmnath/books/blob/main/maths/The-Princeton-Companion-to-Mathematics.pdf)
 
-
+## Performance Engineering
+- [Cuda C++ Programming Guide Release 13.0](https://github.com/arjunmnath/books/blob/5cf17060e158e734a9e509a00a8fcb78d4dadadc/miscellaneous/CUDA_C_Programming_Guide.pdf)
+- [PMPP - Hands on approach - Wen Mei Hwu](https://github.com/arjunmnath/books/blob/5cf17060e158e734a9e509a00a8fcb78d4dadadc/miscellaneous/Programming%20Massively%20Parallel%20Processors.pdf)
 
 ## Low Level Hardware Releated 
 - [The Art of x86 assembly - Randall Hyde](https://github.com/arjunmnath/books/blob/main/Core%20CSE/Art%20Of%20Intel%20x86%20Assembly.pdf)
