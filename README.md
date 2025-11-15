@@ -125,3 +125,5 @@
 - [Neuroscience, Exploring the Brain - Mark F. Bear, Barry W. Connors, Michael A. Paradiso](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/Neuroscience%20-%20Bear.pdf)
 - [🌟The Brain Book - Rita Carter](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/the-brain-book-rita-carter.pdf)
 - [Theoretical Neuroscience - Peter Dayan & L.F. Abbott](https://github.com/arjunmnath/books/blob/f8553055093989b868bfe7c76cad90ec15125dfa/computational-neuroscience/theoretical-neuroscience.pdf)
+<!--🔴 this pdf has the name and download time-->
+- [Gradient Expectations: Structure, Origins, and Synthesis of Predictive Neural Networks - Keith L. Downing](https://github.com/arjunmnath/books/blob/5db37a04aaf932e141e0bb008b7003fd87e0ff6d/computational-neuroscience/Gradient%20Expectations%20-%20KeithL.%20Downing.pdf)
