@@ -50,25 +50,29 @@
 - [Practical MLOps, Operationalizing Machine Learning Models - Noah Gift & Alfredo Deza](https://github.com/arjunmnath/books/blob/b7ab82f2df75327b59db2998a548c1d9197a5f18/machine-learning/Practical%20MLOps_%20Operationalizing%20Machine%20Learning%20Models_compressed.pdf)
 - [Probabilistic Machine Learning: Advanced Topics - Kevin P. Murphy](https://github.com/arjunmnath/books/blob/b7ab82f2df75327b59db2998a548c1d9197a5f18/machine-learning/Probabilistic%20Machine%20Learning%20Advanced%20Topics...%20(Z-Library)_compressed.pdf)
   
+### Deep Learning
 
+* [🌟Deep Learning - Ian Goodfellow, Yoshua Bengio & Aaron Courville](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Deep%20Learning%20by%20Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville.pdf)
+* [Deep Learning for Coders with fastai & PyTorch - Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
+* [Deep Learning from Scratch - Seth Weidman](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep%20Learning%20from%20Scratch%20by%20Seth%20Weidman.pdf)
+* [🌟Deep Learning with Python 2nd Edition - François Chollet](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/DL-with-PY-chollet.pdf)
+* [GANs in Action - Jakub Langr & Vladimir Bok](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Gans-in-action-deep-learning-with-generative-adversarial-networks.pdf)
+* [Generative Deep Learning 2e - David Foster](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Generative-Deep-Learning_compressed.pdf)
+* [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
+* [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/dl-with-swift.pdf)
+* [Practical Deep Learning for Cloud, Mobile & Edge - Anirudh Koul, Siddha Ganju & Meher Kasam](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/practical-DL-for-cloud-mobile-and-edge.pdf)
+* [Programming PyTorch for Deep Learning - Ian Pointer](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/programming-pytorch-for-DL.pdf)
+* [Python for Data Analysis 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
+* [Zero to Deep Learning with Keras and TensorFlow - Francesco Mosconi](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/0%20to%20DL.pdf)
 
-## Deep Learning
-- [🌟Deep Learning - lan Goodfellow, Yoshua Bengio & Aaron Courville](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Deep%20Learning%20by%20Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville.pdf)
-- [Deep Learning for Coders with fastai & PyTorch - Jeremy Howard, Sylvain Gugger](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep.Learning.for.Coders.with.fastai.and.PyTorch.pdf)
-- [Deep Learning from Scratch - Seth Weidman](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Deep%20Learning%20from%20Scratch%20by%20Seth%20Weidman.pdf)
-- [🌟 Deep Learning with Python 2nd Edition - François Chollet](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/DL-with-PY-chollet.pdf)
-- [GANs in Action - Jakub Langr & Vladimir Bok](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Gans-in-action-deep-learning-with-generative-adversarial-networks.pdf)
-- [Generative Deep Learning 2e - David Foster](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Generative-Deep-Learning_compressed.pdf)
-- [Grokking Deep Learning - Andrew W. Trask](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/grokking-deep-learning.pdf)
-- [Hands-On Generative Al with Transformers and Diffusion Models - Omar Sanseviero, Pedro Cuenca, Apolinário Passos & Jonathan Whitaker](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion.pdf)
-- [🌟Hands-On Large Language Models - Jay Alammar & Maarten Grootendorst](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Hands-On_Large_Language_Models.pdf)
-- [🌟LLM Engineer's Handbook - Paul lusztin & Maxime Labonne](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/LLM%20Engineers%20Handbook.pdf)
-- [Natural Language Processing with Transformers - Lewis Tunstall, Leandro von Werra & Thomas Wolf](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/NLP%20with%20Transformer%20models.pdf)
-- [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/dl-with-swift.pdf)
-- [Practical Deep Learning for Cloud, Mobile & Edge - Anirudh Koul, Siddha Ganju & Meher Kasam](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/practical-DL-for-cloud-mobile-and-edge.pdf)
-- [Programming PyTorch for Deep Learning - Ian Pointer](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/programming-pytorch-for-DL.pdf)
-- [Python for Data Analysis 3rd Edition - Wes McKinney](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis.pdf)
-- [Zero to Deep Learning with Keras and Tensorflow - Francesco Mosconi](https://github.com/arjunmnath/books/blob/main/Deep%20Learning/0%20to%20DL.pdf)
+### LLMs
+
+* [🌟Hands-On Large Language Models - Jay Alammar & Maarten Grootendorst](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Hands-On_Large_Language_Models.pdf)
+* [🌟LLM Engineer's Handbook - Paul Iusztin & Maxime Labonne](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/LLM%20Engineers%20Handbook.pdf)
+* [Natural Language Processing with Transformers - Lewis Tunstall, Leandro von Werra & Thomas Wolf](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/NLP%20with%20Transformer%20models.pdf)
+* [Hands-On Generative AI with Transformers and Diffusion Models - Omar Sanseviero, Pedro Cuenca, Apolinário Passos & Jonathan Whitaker](https://github.com/arjunmnath/books/blob/751a559b5208fed3e476318d996883c76c2beca8/Deep%20Learning/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion.pdf)
+* [🌟Build a Large Language Model (From Scratch)](https://github.com/arjunmnath/books/blob/61ab60ee6c4c6a3635d570c2b0a6d6128870f46c/Deep%20Learning/Build%20a%20Large%20Language%20Model%20%28From%20Scratch%29.pdf)
+* [🌟Foundations of Large Language Models](https://github.com/arjunmnath/books/blob/61ab60ee6c4c6a3635d570c2b0a6d6128870f46c/Deep%20Learning/Foundations%20of%20LLM.pdf)
 
 
 ## Robotics
